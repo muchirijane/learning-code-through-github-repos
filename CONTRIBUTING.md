@@ -1,3 +1,5 @@
+#### Please note that this project has a [Contributor Code of Conduct](https://github.com/muchirijane/learning-code-through-github-repos/blob/main/CODE_OF_CONDUCT.md). By contributing in this project you agree to abide by its terms.
+
 ## Before creating a pull request read this document
 
 - create a useful title for your pull request. Don't use 'Updated readme file'.

@@ -1,3 +1,6 @@
+![hacktoberfest badge](https://img.shields.io/badge/%F0%9F%94%A5-hacktoberfest-blue)  ![license badge](https://img.shields.io/badge/%E2%9C%94%20license-MIT-green) ![open-source badge](https://img.shields.io/badge/%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB-Open--Source-orange)
+
+
 # learning-code-through-github-repo
 
 There are amazing resources that are available for codenewbies to learn and develop their skills. But I would like to share some github repos that you can add too get more resources in your coding journey.

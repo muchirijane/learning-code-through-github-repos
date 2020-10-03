@@ -69,3 +69,8 @@ These are repos that have various resources for multiple programming languages.
 - [Front-end resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources#table-of-contents) - This amazing repo has amazing css resources, platforms to learning code, youtube channels you should follow, blogs to follow and VsCode extension to install to make you life easier.
 
 - [List](https://github.com/jnv/lists) - A great repository for learning web development on a deeper level. It has a wide list of resources of front-end developer interviews, companies you can easily apply to, BEM resources, ES6 learning resources, Blockchain & cryptocurrency resources, and more.
+
+## Thank you for your contribution ❤
+<!-- readme: contributors -start --> 
+
+<!-- readme: contributors -end -->

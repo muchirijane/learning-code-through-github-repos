@@ -50,7 +50,7 @@ There are amazing resources that are available for codenewbies to learn and deve
 
 #### React JS repos
 
-[add React js repos that have various list of resources you love]
+- [Awesome React Resources](https://github.com/brillout/awesome-react-components) - This amazing Github repository has great resources that include the React ecosystem. You can fork or star it will be useful in your next project. The repo includes:React tools, React General Resources, React Community, React Online Playgrounds and React tutorials.
 
 #### Node Js repos
 

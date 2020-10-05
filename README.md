@@ -90,6 +90,13 @@ All the contribution to add useful Github repositories with important and useful
             <br />
             <sub><b>Jane Tracy Muthoni</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/trivedidhruvil9">
+            <img src="https://avatars0.githubusercontent.com/u/56179904?v=4" width="100;" alt="trivedidhruvil9"/>
+            <br />
+            <sub><b>Dhruvil Trivedi</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->

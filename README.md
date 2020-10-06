@@ -41,6 +41,9 @@ There are amazing resources that are available for codenewbies to learn and deve
 - [Awesome Javascript Learning](https://github.com/micromata/awesome-javascript-learning) - This repo has a list of only Javascript resources that includes: free Js ebooks, blogs, videos, DOM related resources, Node Js resources and more.
 
 - [Javascript Stuff](https://github.com/ahfarmer/javascriptstuff-db) - This repo has an amazing resources for react resources with a website to easily get them in one place. You can get react starter projects, static site generators, react tutorials, developer tools and more.
+  
+- [You Dont Know JS Yet](https://github.com/getify/You-Dont-Know-JS) - This is a series of books diving deep into the core mechanisms of the JavaScript language.
+
 
 #### Vue JS repos
 

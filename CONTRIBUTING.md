@@ -34,3 +34,6 @@
 1. Leave a short message in the PR explaining in slightly more detail what the PR accomplishes.
 1. If your PR touches multiple parts, consider adding a bullet list of accomplishments.
 1. Amazing you just made your first successful Pull request. Just wait a few minutes for me to merge it.
+
+#### Example of how your Pr should look like
+<img src="https://i.ibb.co/nDyC3v1/Screenshot-257.png" alt="Screenshot-257" border="0">

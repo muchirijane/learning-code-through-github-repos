@@ -9,7 +9,7 @@ There are amazing resources that are available for codenewbies to learn and deve
 <br>
 <br>
 
-#### Design resource
+#### Design resources
 - [Design_Resources_For_Developers ](https://github.com/bradtraversy/design-resources-for-developers) - This is for all the developers for the design resources they need.
 
 #### Html resources 

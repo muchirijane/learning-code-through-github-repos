@@ -75,6 +75,10 @@ These are repos that have various resources for multiple programming languages.
 
 - [List](https://github.com/jnv/lists) - A great repository for learning web development on a deeper level. It has a wide list of resources of front-end developer interviews, companies you can easily apply to, BEM resources, ES6 learning resources, Blockchain & cryptocurrency resources, and more.
 
+### Flask Repos
+
+- [Awesome Flask](https://github.com/humiaozuzu/awesome-flask) -  A curated list of awesome Flask resources and plugins.
+
 ### How to contribute
 
 All the contribution to add useful Github repositories with important and useful resources are welcomed. Please read the [Contribution guidelines for steps to take](https://github.com/muchirijane/learning-code-through-github-repos/blob/main/CONTRIBUTING.md) to accopmlish a successful Pull request.

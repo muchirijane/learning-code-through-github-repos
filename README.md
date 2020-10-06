@@ -1,5 +1,4 @@
-![hacktoberfest badge](https://img.shields.io/badge/%F0%9F%94%A5-hacktoberfest-blue)  ![license badge](https://img.shields.io/badge/%E2%9C%94%20license-MIT-green) ![open-source badge](https://img.shields.io/badge/%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB-Open--Source-orange)
-
+![hacktoberfest badge](https://img.shields.io/badge/%F0%9F%94%A5-hacktoberfest-blue) ![license badge](https://img.shields.io/badge/%E2%9C%94%20license-MIT-green) ![open-source badge](https://img.shields.io/badge/%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB-Open--Source-orange)
 
 # learning-code-through-github-repo
 
@@ -9,7 +8,7 @@ There are amazing resources that are available for codenewbies to learn and deve
 <br>
 <br>
 
-#### Html resources 
+#### Html resources
 
 - [Awesome Html5 resources](https://github.com/diegocard/awesome-html5) - This a github repo created to put all the Html5 resources you would need. You will get to learn about accessibility, Semantics, DOM Management, Progressive web apps, Html books and more.
 
@@ -19,8 +18,7 @@ There are amazing resources that are available for codenewbies to learn and deve
 
 - [Html5 resources](https://github.com/SirPepe/HTML5Resources) - If you want to learn or get started with Html and css, this repo will be helpful. It has resources that will help you improve your skills on the basics.
 
-#### CSS resources 
-
+#### CSS resources
 
 - [Awesome CSS learning](https://github.com/micromata/awesome-css-learning) - Have a look at CSS resources to help you in your coding journey. Get to know all about animations, CSS variables, layout, CSS unit and more.
 
@@ -34,7 +32,7 @@ There are amazing resources that are available for codenewbies to learn and deve
 
 - [Html5 resources](https://github.com/SirPepe/HTML5Resources) - As I mentioned above. It has great resources for Html5 but you can learn sass, flexbox, grid and more.
 
-#### Javascript repos 
+#### Javascript repos
 
 - [Awesome JS](https://github.com/serhiisol/awesome-js) - With this repo you can get resources and tutorials for Javascript frameworks like Node Js, Angular Js, React Js and also vanilla Javascript resources.
 
@@ -53,13 +51,13 @@ There are amazing resources that are available for codenewbies to learn and deve
 #### React JS repos
 
 - [Awesome React Resources](https://github.com/brillout/awesome-react-components) - This amazing Github repository has great resources that include the React ecosystem. You can fork or star it will be useful in your next project. The repo includes:React tools, React General Resources, React Community, React Online Playgrounds and React tutorials.
+- [Useful React Resources]() - This amazing Github repository has great resources that include the React ecosystem. You can fork or star it will be useful in your next project. The repo includes:React tools, React General Resources, React Community, React Online Playgrounds and React tutorials.
 
 #### Node Js repos
 
 - [Node JS resources](https://github.com/sindresorhus/awesome-nodejs) - Get more Node Js resources from Command-line utilities, Build tools, Templating, Control flow, Network, Data validation, Tutorials and more.
 
-#### All in one repos 
-
+#### All in one repos
 
 These are repos that have various resources for multiple programming languages.
 
@@ -78,10 +76,12 @@ These are repos that have various resources for multiple programming languages.
 - [List](https://github.com/jnv/lists) - A great repository for learning web development on a deeper level. It has a wide list of resources of front-end developer interviews, companies you can easily apply to, BEM resources, ES6 learning resources, Blockchain & cryptocurrency resources, and more.
 
 ### How to contribute
-All the contribution to add useful Github repositories with important and useful resources are welcomed. Please read the [Contribution guidelines for steps to take](https://github.com/muchirijane/learning-code-through-github-repos/blob/main/CONTRIBUTING.md) to accopmlish a successful Pull request. 
+
+All the contribution to add useful Github repositories with important and useful resources are welcomed. Please read the [Contribution guidelines for steps to take](https://github.com/muchirijane/learning-code-through-github-repos/blob/main/CONTRIBUTING.md) to accopmlish a successful Pull request.
 
 ## Thank you for your contribution
-<!-- readme: contributors -start --> 
+
+<!-- readme: contributors -start -->
 <table>
 <tr>
     <td align="center">
@@ -89,6 +89,13 @@ All the contribution to add useful Github repositories with important and useful
             <img src="https://avatars3.githubusercontent.com/u/54930887?v=4" width="100;" alt="muchirijane"/>
             <br />
             <sub><b>Jane Tracy Muthoni</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/trivedidhruvil9">
+            <img src="https://avatars0.githubusercontent.com/u/56179904?v=4" width="100;" alt="trivedidhruvil9"/>
+            <br />
+            <sub><b>Dhruvil Trivedi</b></sub>
         </a>
     </td></tr>
 </table>

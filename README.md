@@ -108,6 +108,13 @@ All the contribution to add useful Github repositories with important and useful
             <br />
             <sub><b>Prathamesh Borse</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/d02d33pak">
+            <img src="https://avatars1.githubusercontent.com/u/21690808?v=4" width="100;" alt="d02d33pak"/>
+            <br />
+            <sub><b>Deepak Talan</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->

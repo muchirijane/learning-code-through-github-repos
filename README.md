@@ -9,6 +9,9 @@ There are amazing resources that are available for codenewbies to learn and deve
 <br>
 <br>
 
+#### Design resource
+- [Design_Resources_For_Developers ](https://github.com/bradtraversy/design-resources-for-developers) - This is for all the developers for the design resources they need.
+
 #### Html resources 
 
 - [Awesome Html5 resources](https://github.com/diegocard/awesome-html5) - This a github repo created to put all the Html5 resources you would need. You will get to learn about accessibility, Semantics, DOM Management, Progressive web apps, Html books and more.

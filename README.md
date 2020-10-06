@@ -101,6 +101,13 @@ All the contribution to add useful Github repositories with important and useful
             <br />
             <sub><b>Dhruvil Trivedi</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/viraldevpb">
+            <img src="https://avatars3.githubusercontent.com/u/66899360?v=4" width="100;" alt="viraldevpb"/>
+            <br />
+            <sub><b>Prathamesh Borse</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->

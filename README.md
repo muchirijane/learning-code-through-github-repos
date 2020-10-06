@@ -2,7 +2,7 @@
 
 # learning-code-through-github-repo
 
-There are amazing resources that are available for codenewbies to learn and develop their skills. But I would like to share some github repos that you can add too get more resources in your coding journey.
+There are amazing resources that are available for codenewbies to learn and develop their skills. But I would like to share some github repos that you can add to get more resources in your coding journey.
 
 <img src="https://i.ibb.co/kS3pSW9/Git-Hub-Pic.png" alt="Git-Hub-Pic" border="0" height = "400px">
 <br>
@@ -10,11 +10,11 @@ There are amazing resources that are available for codenewbies to learn and deve
 
 #### Html resources
 
-- [Awesome Html5 resources](https://github.com/diegocard/awesome-html5) - This a github repo created to put all the Html5 resources you would need. You will get to learn about accessibility, Semantics, DOM Management, Progressive web apps, Html books and more.
+- [Awesome Html5 resources](https://github.com/diegocard/awesome-html5) - This is a github repo created to put all the Html5 resources you would need. You will get to learn about accessibility, Semantics, DOM Management, Progressive web apps, Html books and more.
 
 - [Html list resources](https://github.com/gloparco/Master-List-of-HTML5-JS-CSS-Resources/blob/master/html.md) - This repo has awesome html resources where you can also get links to helpful Html5 books.
 
-- [Html and Css](https://github.com/zuzuleinen/html-and-css) - The repository has amazing resources on html & css. You can learn things like HTML semantics and front-end architecture, Create a Contact Form in HTML5, What is HTML5 Capable of, Features, and Resources and more resources.
+- [Html and Css](https://github.com/zuzuleinen/html-and-css) - This repository has amazing resources on html & css. You can learn things like HTML semantics and front-end architecture, Create a Contact Form in HTML5, What is HTML5 Capable of, Features, and Resources and more resources.
 
 - [Html5 resources](https://github.com/SirPepe/HTML5Resources) - If you want to learn or get started with Html and css, this repo will be helpful. It has resources that will help you improve your skills on the basics.
 
@@ -26,7 +26,7 @@ There are amazing resources that are available for codenewbies to learn and deve
 
 - [Awesome Tailwind Css](https://github.com/aniftyco/awesome-tailwindcss) - Get to learn view and use amazing Tailwind Css resources, tools, IDE extensions, Templates, Themes and more.
 
-- [Design resources for developers](https://github.com/bradtraversy/design-resources-for-developers) - This is a great github repo to get all the resources you need to make your website look good. A collection of sites that you can get colors, fonts,UI graphics, icons, React UI, Vue UI and more.
+- [Design resources for developers](https://github.com/bradtraversy/design-resources-for-developers) - This is a great github repo to get all the resources you need to make your website look good. A collection of sites from where you can get colors, fonts, UI graphics, icons, React UI, Vue UI and more.
 
 - [Html and Css](https://github.com/zuzuleinen/html-and-css) - The repository has amazing resources on css but also on html too. The repo has resources like What the Heck Is CSS Specificity? , CSS Architectures: New Best Practices, The worst Css practices, CSS techniques you couldn't live without and more.
 
@@ -40,17 +40,17 @@ There are amazing resources that are available for codenewbies to learn and deve
 
 - [Awesome Javascript Learning](https://github.com/micromata/awesome-javascript-learning) - This repo has a list of only Javascript resources that includes: free Js ebooks, blogs, videos, DOM related resources, Node Js resources and more.
 
-- [Javascript Stuff](https://github.com/ahfarmer/javascriptstuff-db) - This repo has an amazing resources for react resources with a website to easily get them in one place. You can get react starter projects, static site generators, react tutorials, developer tools and more.
+- [Javascript Stuff](https://github.com/ahfarmer/javascriptstuff-db) - This repo has amazing resources for react resources with a website to easily get them in one place. You can get react starter projects, static site generators, react tutorials, developer tools and more.
 
 #### Vue JS repos
 
 - [Awesome Vue Resources](https://github.com/vuejs/awesome-vue) - This widely popular Github repository is jam packed with awesome vue.js resorces. It has everything and more for someone who wants to master vue.js. From tutorials, podcasts, documentations to full projects, code snippets etc.
 
-- [Vuejs Resources](https://github.com/gliterd/vuejs-resources) - ThisGithub repository is has valuable vue.js resorces. It has tutorials, documentations, libraries & plugins to development tools.
+- [Vuejs Resources](https://github.com/gliterd/vuejs-resources) - This Github repository has valuable vue.js resorces. It has tutorials, documentations, libraries & plugins to development tools.
 
 #### React JS repos
 
-- [Awesome React Resources](https://github.com/brillout/awesome-react-components) - This amazing Github repository has great resources that include the React ecosystem. You can fork or star it will be useful in your next project. The repo includes:React tools, React General Resources, React Community, React Online Playgrounds and React tutorials.
+- [Awesome React Resources](https://github.com/brillout/awesome-react-components) - This amazing Github repository has great resources that include the React ecosystem. You can fork or star it. It will be useful in your next project. The repo includes:React tools, React General Resources, React Community, React Online Playgrounds and React tutorials.
 - [Useful React Resources]() - This amazing Github repository has great resources that include the React ecosystem. You can fork or star it will be useful in your next project. The repo includes:React tools, React General Resources, React Community, React Online Playgrounds and React tutorials.
 
 #### Node Js repos
@@ -67,7 +67,7 @@ These are repos that have various resources for multiple programming languages.
 
 - [Algo Wiki](https://github.com/vicky002/AlgoWiki) - This is like a wikipedia repo for nearly all programming languages such as c++, python, Javascript, Rust, PHP, Java and more. You can also get algorithms, machine learning, competitive programming, and more.
 
-- [Front-end checklist](https://github.com/thedaviddias/Front-End-Checklist) - This repository has is a checklist for steps you should take before you launch your website. It includes resources to check your website performance, accessibility, SEO and more.
+- [Front-end checklist](https://github.com/thedaviddias/Front-End-Checklist) - This repository is a checklist for steps you should take before you launch your website. It includes resources to check your website performance, accessibility, SEO and more.
 
 - [Free for devs](https://github.com/ripienaar/free-for-dev) - You will get amazing resources to help you build websites from the ground up. Examples: Tools for Teams and Collaboration, CI and CD, Testing, Security and PKI, Management System, and more.
 
@@ -81,7 +81,7 @@ These are repos that have various resources for multiple programming languages.
 
 ### How to contribute
 
-All the contribution to add useful Github repositories with important and useful resources are welcomed. Please read the [Contribution guidelines for steps to take](https://github.com/muchirijane/learning-code-through-github-repos/blob/main/CONTRIBUTING.md) to accopmlish a successful Pull request.
+All the contribution to add useful Github repositories with important and useful resources are welcome. Please read the [Contribution guidelines for steps to take](https://github.com/muchirijane/learning-code-through-github-repos/blob/main/CONTRIBUTING.md) to accopmlish a successful Pull request.
 
 ## Thank you for your contribution
 

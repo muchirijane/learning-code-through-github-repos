@@ -81,7 +81,7 @@ All the contribution to add useful Github repositories with important and useful
 
 ## Thank you for your contribution
 
-<!-- readme: contributors -start -->
+<!-- readme: contributors -start --> 
 <table>
 <tr>
     <td align="center">

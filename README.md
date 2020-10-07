@@ -96,10 +96,24 @@ All the contributions to add useful Github repositories with important and usefu
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Hackerbone">
+            <img src="https://avatars3.githubusercontent.com/u/20267705?v=4" width="100;" alt="Hackerbone"/>
+            <br />
+            <sub><b>Sitaraman S</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/trivedidhruvil9">
             <img src="https://avatars0.githubusercontent.com/u/56179904?v=4" width="100;" alt="trivedidhruvil9"/>
             <br />
             <sub><b>Dhruvil Trivedi</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/MicheleMarschner">
+            <img src="https://avatars0.githubusercontent.com/u/49597398?v=4" width="100;" alt="MicheleMarschner"/>
+            <br />
+            <sub><b>Michele Marschner</b></sub>
         </a>
     </td>
     <td align="center">
@@ -115,7 +129,8 @@ All the contributions to add useful Github repositories with important and usefu
             <br />
             <sub><b>Deepak Talan</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/leaggg">
             <img src="https://avatars0.githubusercontent.com/u/67368902?v=4" width="100;" alt="leaggg"/>

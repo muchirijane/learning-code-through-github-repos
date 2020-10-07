@@ -78,7 +78,7 @@
 ### Flask Repos
 
 - [Awesome Flask](https://github.com/humiaozuzu/awesome-flask) -  भयानक Flask संसाधनों और प्लगइन्स की एक क्यूरेटेड सूची।
-### How to contribute
+### योगदान कैसे करें?
 
 महत्वपूर्ण और उपयोगी संसाधनों के साथ उपयोगी जीथूब रिपोजिटरी को जोड़ने के लिए सभी योगदानों का स्वागत किया जाता है। कृपया पढ़ें [Contribution guidelines for steps to take](https://github.com/muchirijane/learning-code-through-github-repos/blob/main/CONTRIBUTING.md) एक सफल पुल अनुरोध को पूरा करने के लिए।
 

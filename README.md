@@ -137,6 +137,13 @@ All the contributions to add useful Github repositories with important and usefu
             <br />
             <sub><b>Lea</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/GriffinMLN">
+            <img src="https://avatars1.githubusercontent.com/u/65615065?v=4" width="100;" alt="GriffinMLN"/>
+            <br />
+            <sub><b>GriffinMLN</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->

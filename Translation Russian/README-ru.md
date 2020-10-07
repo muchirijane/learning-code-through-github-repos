@@ -1,14 +1,14 @@
 ![hacktoberfest badge](https://img.shields.io/badge/%F0%9F%94%A5-hacktoberfest-blue) ![license badge](https://img.shields.io/badge/%E2%9C%94%20license-MIT-green) ![open-source badge](https://img.shields.io/badge/%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB-Open--Source-orange)
 
-# learning-code-through-github-repo
+# учиться-программировать-через-github-repo
 
-There are amazing resources that are available for code newbies to learn and develop their skills. But I would like to share some Github repos that you can add to get more resources in your coding journey.
+Для новичков в программировании доступны удивительные ресурсы, позволяющие изучать и развивать свои навыки. Но я хотел бы поделиться некоторыми репозиториями Github, которые вы можете добавить, чтобы получить больше ресурсов в своем путешествии по программированию.
 
 <img src="https://i.ibb.co/kS3pSW9/Git-Hub-Pic.png" alt="Git-Hub-Pic" border="0" height = "400px">
 <br>
 <br>
 
-#### Html resources
+#### Html ресурсы
 
 - [Awesome Html5 resources](https://github.com/diegocard/awesome-html5) - This a GitHub repo created to put all the Html5 resources you would need. You will get to learn about accessibility, Semantics, DOM Management, Progressive web apps, Html books, and more.
 
@@ -18,7 +18,7 @@ There are amazing resources that are available for code newbies to learn and dev
 
 - [Html5 resources](https://github.com/SirPepe/HTML5Resources) - If you want to learn or get started with Html and CSS, this repo will be helpful. It has resources that will help you improve your skills on the basics.
 
-#### CSS resources
+#### CSS ресурсы
 
 - [Awesome CSS learning](https://github.com/micromata/awesome-css-learning) - Have a look at CSS resources to help you in your coding journey. Get to know all about animations, CSS variables, layout, CSS unit, and more.
 
@@ -32,7 +32,7 @@ There are amazing resources that are available for code newbies to learn and dev
 
 - [Html5 resources](https://github.com/SirPepe/HTML5Resources) - As I mentioned above. It has great resources for Html5 but you can learn sass, flexbox, grid, and more.
 
-#### Javascript repos
+#### Javascript ресурсы
 
 - [Awesome JS](https://github.com/serhiisol/awesome-js) - With this repo, you can get resources and tutorials for Javascript frameworks like Node Js, Angular Js, React Js, and also vanilla Javascript resources.
 
@@ -42,22 +42,22 @@ There are amazing resources that are available for code newbies to learn and dev
 
 - [Javascript Stuff](https://github.com/ahfarmer/javascriptstuff-db) - This repo has amazing resources for React resources with a website to easily get them in one place. You can get React starter projects, static site generators, react tutorials, developer tools, and more.
 
-#### Vue JS repos
+#### Vue JS ресурсы
 
 - [Awesome Vue Resources](https://github.com/vuejs/awesome-vue) - This widely popular Github repository is jam-packed with awesome vue.js resources. It has everything and more for someone who wants to master vue.js. From tutorials, podcasts, documentations to full projects, code snippets, etc.
 
 - [Vuejs Resources](https://github.com/gliterd/vuejs-resources) - This Github repository is has valuable vue.js resources. It has tutorials, documentation, libraries & plugins to development tools.
 
-#### React JS repos
+#### React JS ресурсы
 
 - [Awesome React Resources](https://github.com/brillout/awesome-react-components) - This amazing Github repository has great resources that include the React ecosystem. You can fork or star it will be useful in your next project. The repo includes: React tools, React General Resources, React Community, React Online Playgrounds, and React tutorials.
 - [Useful React Resources]() - This amazing Github repository has great resources that include the React ecosystem. You can fork or star it will be useful in your next project. The repo includes: React tools, React General Resources, React Community, React Online Playgrounds, and React tutorials.
 
-#### Node Js repos
+#### Node Js ресурсы
 
 - [Node JS resources](https://github.com/sindresorhus/awesome-nodejs) - Get more Node Js resources from Command-line utilities, Build tools, Templating, Control flow, Network, Data validation, Tutorials, and more.
 
-#### All in one repos
+#### All in one ресурсы
 
 These are repos that have various resources for multiple programming languages.
 
@@ -75,13 +75,13 @@ These are repos that have various resources for multiple programming languages.
 
 - [List](https://github.com/jnv/lists) - A great repository for learning web development on a deeper level. It has a wide list of resources of front-end developer interviews, companies you can easily apply to, BEM resources, ES6 learning resources, Blockchain & cryptocurrency resources, and more.
 
-### Flask Repos
+### Flask ресурсы
 
 - [Awesome Flask](https://github.com/humiaozuzu/awesome-flask) -  A curated list of awesome Flask resources and plugins.
 
-### How to contribute
+### Как внести свой вклад
 
-All the contributions to add useful Github repositories with important and useful resources are welcomed. Please read the [Contribution guidelines for steps to take](https://github.com/muchirijane/learning-code-through-github-repos/blob/main/CONTRIBUTING.md) to accomplish a successful Pull request.
+Приветствуются все вклады в добавление полезных репозиторий Github с важными и полезными ресурсами. Пожалуйста, прочитайте [Contribution guidelines for steps to take](https://github.com/muchirijane/learning-code-through-github-repos/blob/main/CONTRIBUTING.md) чтобы выполнить успешный Pull запрос.
 
 ## Thank you for your contribution
 
@@ -140,6 +140,3 @@ All the contributions to add useful Github repositories with important and usefu
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
-
-
-

@@ -8,7 +8,7 @@ Hay recursos asombrosos que están disponibles para que los novatos en el códig
 <br>
 <br>
 
-#### Recursos HTML
+#### Recursos de HTML
 
 - [Awesome Html5 resources](https://github.com/diegocard/awesome-html5) - Este es un repositorio de GitHub creado para colocar todos los recursos de Html5 que necesitarías. Aprenderás sobre accesibilidad, semántica, administración de DOM, aplicaciones web progresivas, libros Html y más.
 
@@ -18,7 +18,7 @@ Hay recursos asombrosos que están disponibles para que los novatos en el códig
 
 - [Html5 resources](https://github.com/SirPepe/HTML5Resources) - Si deseas aprender o comenzar con Html y CSS, este repositorio será útil. Tiene recursos que te ayudarán a mejorar tus habilidades en los conceptos básicos.
 
-#### Recursos CSS
+#### Recursos de CSS
 
 - [Awesome CSS learning](https://github.com/micromata/awesome-css-learning) - Echa un vistazo a los recursos de CSS que te ayudarán en tu viaje de codificación. Conoce todo sobre animaciones, variables CSS, diseño, unidad CSS y más.
 

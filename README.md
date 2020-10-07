@@ -115,6 +115,13 @@ All the contributions to add useful Github repositories with important and usefu
             <br />
             <sub><b>Deepak Talan</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/leaggg">
+            <img src="https://avatars0.githubusercontent.com/u/67368902?v=4" width="100;" alt="leaggg"/>
+            <br />
+            <sub><b>Lea</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->

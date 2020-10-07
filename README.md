@@ -46,7 +46,7 @@ There are amazing resources that are available for codenewbies to learn and deve
 
 - [Awesome Vue Resources](https://github.com/vuejs/awesome-vue) - This widely popular Github repository is jam packed with awesome vue.js resorces. It has everything and more for someone who wants to master vue.js. From tutorials, podcasts, documentations to full projects, code snippets etc.
 
-- [Vuejs Resources](https://github.com/gliterd/vuejs-resources) - ThisGithub repository is has valuable vue.js resorces. It has tutorials, documentations, libraries & plugins to development tools.
+- [Vuejs Resources](https://github.com/gliterd/vuejs-resources) - This Github repository is has valuable vue.js resources. It has tutorials, documentations, libraries & plugins to development tools.
 
 #### React JS repos
 

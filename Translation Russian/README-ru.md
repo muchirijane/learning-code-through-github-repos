@@ -34,13 +34,13 @@
 
 #### Javascript ресурсы
 
-- [Awesome JS](https://github.com/serhiisol/awesome-js) - With this repo, you can get resources and tutorials for Javascript frameworks like Node Js, Angular Js, React Js, and also vanilla Javascript resources.
+- [Awesome JS](https://github.com/serhiisol/awesome-js) - С помощью этого репо вы можете получить ресурсы и учебные пособия для фреймворков Javascript, таких как Node Js, Angular Js, React Js, а также ресурсы Javascript.
 
-- [Awesome Javascript](https://github.com/sorrycc/awesome-javascript) - Get to know about Templating Engines, Data Visualization, Reactive Programming, RegExp, API, and more.
+- [Awesome Javascript](https://github.com/sorrycc/awesome-javascript) - Узнайте о механизмах создания шаблонов, визуализации данных, Reactive программировании, RegExp, API и многом другом.
 
-- [Awesome Javascript Learning](https://github.com/micromata/awesome-javascript-learning) - This repo has a list of only Javascript resources that includes: free Js ebooks, blogs, videos, DOM related resources, Node Js resources, and more.
+- [Awesome Javascript Learning](https://github.com/micromata/awesome-javascript-learning) - В этом репо есть список только ресурсов Javascript, который включает: бесплатные электронные книги Js, блоги, видео, ресурсы, связанные с DOM, ресурсы Node Js и многое другое.
 
-- [Javascript Stuff](https://github.com/ahfarmer/javascriptstuff-db) - This repo has amazing resources for React resources with a website to easily get them in one place. You can get React starter projects, static site generators, react tutorials, developer tools, and more.
+- [Javascript Stuff](https://github.com/ahfarmer/javascriptstuff-db) - В этом репозитории есть удивительные ресурсы для ресурсов React с веб-сайтом, чтобы легко собрать их в одном месте. Вы можете получить стартовые проекты React, генераторы статических сайтов, руководства по реагированию, инструменты разработчика и многое другое.
 
 #### Vue JS ресурсы
 

@@ -44,40 +44,40 @@
 
 #### Vue JS ресурсы
 
-- [Awesome Vue Resources](https://github.com/vuejs/awesome-vue) - This widely popular Github repository is jam-packed with awesome vue.js resources. It has everything and more for someone who wants to master vue.js. From tutorials, podcasts, documentations to full projects, code snippets, etc.
+- [Awesome Vue Resources](https://github.com/vuejs/awesome-vue) - Этот широко популярный репозиторий Github забит потрясающими ресурсами vue.js. В нем есть все и даже больше для тех, кто хочет освоить vue.js. От учебных пособий, подкастов, документации до полных проектов, фрагментов кода и т.д.
 
-- [Vuejs Resources](https://github.com/gliterd/vuejs-resources) - This Github repository is has valuable vue.js resources. It has tutorials, documentation, libraries & plugins to development tools.
+- [Vuejs Resources](https://github.com/gliterd/vuejs-resources) - В этом репозитории Github есть ценные ресурсы vue.js. В нем есть учебные пособия, документация, библиотеки и плагины для инструментов разработки.
 
 #### React JS ресурсы
 
-- [Awesome React Resources](https://github.com/brillout/awesome-react-components) - This amazing Github repository has great resources that include the React ecosystem. You can fork or star it will be useful in your next project. The repo includes: React tools, React General Resources, React Community, React Online Playgrounds, and React tutorials.
-- [Useful React Resources]() - This amazing Github repository has great resources that include the React ecosystem. You can fork or star it will be useful in your next project. The repo includes: React tools, React General Resources, React Community, React Online Playgrounds, and React tutorials.
+- [Awesome React Resources](https://github.com/brillout/awesome-react-components) - Этот удивительный репозиторий Github имеет отличные ресурсы, включая экосистему React. Вы можете форкнуть или пометить, он будет полезен в вашем следующем проекте. Репозиторий включает в себя: инструменты React, общие ресурсы React, сообщество React, игровые площадки React Online и руководства по React.
+- [Useful React Resources]() - Этот удивительный репозиторий Github имеет отличные ресурсы, включая экосистему React. Вы можете форкнуть или пометить, он будет полезен в вашем следующем проекте. Репозиторий включает в себя: React инструменты, React общие ресурсы, React сообщество, React Online игровые площадки и React учебные пособия.
 
 #### Node Js ресурсы
 
-- [Node JS resources](https://github.com/sindresorhus/awesome-nodejs) - Get more Node Js resources from Command-line utilities, Build tools, Templating, Control flow, Network, Data validation, Tutorials, and more.
+- [Node JS resources](https://github.com/sindresorhus/awesome-nodejs) - Получите больше ресурсов Node Js из утилит командной строки, инструментов сборки, шаблонов, потока управления, сети, проверки данных, руководств и т.д.
 
-#### All in one ресурсы
+#### Все в одном ресурсы
 
-These are repos that have various resources for multiple programming languages.
+Это репозитории, в которых есть различные ресурсы для нескольких языков программирования.
 
-- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - Get resources for all programming languages and get to know about vim, Linux resources, style-guides, Serverless Security, Internet of Things (IoT), DevOps, Design Patterns and more. The list is endless, go check out the repo.
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - Получите ресурсы для всех языков программирования и узнайте о vim, ресурсах Linux, руководствах по стилям, бессерверной безопасности, Интернете вещей (IoT), DevOps, шаблонах проектирования и многом другом. Список бесконечен, посмотрите репо.
 
-- [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources) - If you want to get resources on Twilio, TensorFlow, TypeScript, Machine learning, Ruby on Rails, Javascript, and more. This repository will help you.
+- [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources) - Если вы хотите получить ресурсы по Twilio, TensorFlow, TypeScript, Machine Learning, Ruby on Rails, Javascript и т.д. Этот репозиторий вам поможет.
 
-- [Algo Wiki](https://github.com/vicky002/AlgoWiki) - This is like a Wikipedia repo for nearly all programming languages such as c++, python, Javascript, Rust, PHP, Java, and more. You can also get algorithms, machine learning, competitive programming, and more.
+- [Algo Wiki](https://github.com/vicky002/AlgoWiki) - Это похоже на репозиторий Википедии почти для всех языков программирования, таких как c ++, python, Javascript, Rust, PHP, Java и другие. Вы также можете получить алгоритмы, машинное обучение, соревновательное программирование и многое другое.
 
-- [Front-end checklist](https://github.com/thedaviddias/Front-End-Checklist) - This repository has is a checklist for steps you should take before you launch your website. It includes resources to check your website performance, accessibility, SEO, and more.
+- [Front-end checklist](https://github.com/thedaviddias/Front-End-Checklist) - В этом репозитории есть контрольный список шагов, которые вы должны предпринять перед запуском своего сайта. Он включает ресурсы для проверки производительности вашего сайта, доступности, SEO и т.д.
 
-- [Free for devs](https://github.com/ripienaar/free-for-dev) - You will get amazing resources to help you build websites from the ground up. Examples: Tools for Teams and Collaboration, CI and CD, Testing, Security and PKI, Management System, and more.
+- [Free for devs](https://github.com/ripienaar/free-for-dev) - Вы получите потрясающие ресурсы, которые помогут вам создавать веб-сайты с нуля. Примеры: инструменты для команд и совместной работы, CI и CD, тестирование, безопасность и PKI, система управления и многое другое.
 
-- [Front-end resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources#table-of-contents) - This amazing repo has amazing CSS resources, platforms to learning code, youtube channels you should follow, blogs to follow, and VsCode extension to install to make your life easier.
+- [Front-end resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources#table-of-contents) - В этом замечательном репозитории есть потрясающие ресурсы CSS, платформы для изучения кода, каналы YouTube, за которыми вы должны следить, блоги, за которыми нужно следить, и расширение VsCode, которое нужно установить, чтобы облегчить вашу жизнь.
 
-- [List](https://github.com/jnv/lists) - A great repository for learning web development on a deeper level. It has a wide list of resources of front-end developer interviews, companies you can easily apply to, BEM resources, ES6 learning resources, Blockchain & cryptocurrency resources, and more.
+- [List](https://github.com/jnv/lists) - Отличный репозиторий для изучения веб-разработки на более глубоком уровне. В нем есть широкий список ресурсов для собеседований с интерфейсными разработчиками, компаний, к которым вы можете легко обратиться, ресурсы BEM, ресурсы обучения ES6, ресурсы Blockchain и криптовалюты и многое другое.
 
 ### Flask ресурсы
 
-- [Awesome Flask](https://github.com/humiaozuzu/awesome-flask) -  A curated list of awesome Flask resources and plugins.
+- [Awesome Flask](https://github.com/humiaozuzu/awesome-flask) -  Кураторский список замечательных ресурсов и плагинов Flask.
 
 ### Как внести свой вклад
 

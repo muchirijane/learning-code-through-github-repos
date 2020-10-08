@@ -10,37 +10,37 @@
 
 #### Html ресурсы
 
-- [Awesome Html5 resources](https://github.com/diegocard/awesome-html5) - This a GitHub repo created to put all the Html5 resources you would need. You will get to learn about accessibility, Semantics, DOM Management, Progressive web apps, Html books, and more.
+- [Awesome Html5 resources](https://github.com/diegocard/awesome-html5) - Этот репозиторий GitHub, создан для размещения всех необходимых ресурсов Html5. Вы узнаете о специальных возможностях, семантике, управлении DOM, прогрессивных веб-приложениях, книгах Html и многом другом.
 
-- [Html list resources](https://github.com/gloparco/Master-List-of-HTML5-JS-CSS-Resources/blob/master/html.md) - This repo has awesome HTML resources where you can also get links to helpful Html5 books.
+- [Html list resources](https://github.com/gloparco/Master-List-of-HTML5-JS-CSS-Resources/blob/master/html.md) - В этом репозитории есть отличные ресурсы HTML, где вы также можете получить ссылки на полезные книги по Html5.
 
-- [Html and Css](https://github.com/zuzuleinen/html-and-css) - The repository has amazing resources on HTML & CSS. You can learn things like HTML semantics and front-end architecture, Create a Contact Form in HTML5, What is HTML5 Capable of, Features, and Resources and more resources.
+- [Html and Css](https://github.com/zuzuleinen/html-and-css) - В репозитории есть потрясающие ресурсы по HTML и CSS. Вы можете изучить такие вещи, как семантика HTML и интерфейсная архитектура, создание контактной формы в HTML5, возможности HTML5, функции и ресурсы, а также другие ресурсы.
 
-- [Html5 resources](https://github.com/SirPepe/HTML5Resources) - If you want to learn or get started with Html and CSS, this repo will be helpful. It has resources that will help you improve your skills on the basics.
+- [Html5 resources](https://github.com/SirPepe/HTML5Resources) - Если вы хотите изучить или начать работу с Html и CSS, этот репозиторий будет полезен. В нем есть ресурсы, которые помогут вам улучшить свои навыки по основам.
 
 #### CSS ресурсы
 
-- [Awesome CSS learning](https://github.com/micromata/awesome-css-learning) - Have a look at CSS resources to help you in your coding journey. Get to know all about animations, CSS variables, layout, CSS unit, and more.
+- [Awesome CSS learning](https://github.com/micromata/awesome-css-learning) - Ознакомьтесь с ресурсами CSS, которые помогут вам в вашем пути кодирования. Узнайте все об анимации, переменных CSS, макете, модуле CSS и многом другом.
 
-- [Awesome CSS Grid](https://github.com/valentinogagliardi/awesome-css-grid) - Learn about the CSS grid and how you can improve with amazing free resources.
+- [Awesome CSS Grid](https://github.com/valentinogagliardi/awesome-css-grid) - Узнайте о сетке CSS и о том, как можно улучшить ее с помощью потрясающих бесплатных ресурсов.
 
-- [Awesome Tailwind Css](https://github.com/aniftyco/awesome-tailwindcss) - Get to learn view and use amazing Tailwind CSS resources, tools, IDE extensions, Templates, Themes, and more.
+- [Awesome Tailwind Css](https://github.com/aniftyco/awesome-tailwindcss) - Научитесь просматривать и использовать удивительные Tailwind CSS ресурсы, инструменты, расширения IDE, шаблоны, темы и многое другое.
 
-- [Design resources for developers](https://github.com/bradtraversy/design-resources-for-developers) - This is a great GitHub repo to get all the resources you need to make your website look good. A collection of sites that you can get colors, fonts, UI graphics, icons, React UI, Vue UI, and more.
+- [Design resources for developers](https://github.com/bradtraversy/design-resources-for-developers) - Этот отличный репозиторий на GitHub, где собраны все ресурсы, необходимые для того, чтобы ваш сайт выглядел хорошо. Коллекция сайтов, на которых вы можете получить цвета, шрифты, графику пользовательского интерфейса, значки, пользовательский интерфейс React, пользовательский интерфейс Vue и многое другое.
 
-- [Html and Css](https://github.com/zuzuleinen/html-and-css) - The repository has amazing resources on CSS but also on HTML too. The repository has resources like:  What the Heck Is CSS Specificity? , CSS Architectures: New Best Practices, The worst Css practices, CSS techniques you couldn't live without, and more.
+- [Html and Css](https://github.com/zuzuleinen/html-and-css) - В репозитории есть удивительные ресурсы по CSS, но также и по HTML. В репозитории есть такие ресурсы, как: Что, черт возьми, такое специфичность CSS? , Архитектура CSS: новые передовые методы, Худшие методы CSS, методы CSS, без которых вы не можете жить, и многое другое.
 
-- [Html5 resources](https://github.com/SirPepe/HTML5Resources) - As I mentioned above. It has great resources for Html5 but you can learn sass, flexbox, grid, and more.
+- [Html5 resources](https://github.com/SirPepe/HTML5Resources) - Как я уже говорил выше. В нем есть отличные ресурсы для Html5, но вы можете также изучить sass, flexbox, grid и многое другое.
 
 #### Javascript ресурсы
 
-- [Awesome JS](https://github.com/serhiisol/awesome-js) - With this repo, you can get resources and tutorials for Javascript frameworks like Node Js, Angular Js, React Js, and also vanilla Javascript resources.
+- [Awesome JS](https://github.com/serhiisol/awesome-js) - С помощью этого репо вы можете получить ресурсы и учебные пособия для фреймворков Javascript, таких как Node Js, Angular Js, React Js, а также ресурсы Javascript.
 
-- [Awesome Javascript](https://github.com/sorrycc/awesome-javascript) - Get to know about Templating Engines, Data Visualization, Reactive Programming, RegExp, API, and more.
+- [Awesome Javascript](https://github.com/sorrycc/awesome-javascript) - Узнайте о механизмах создания шаблонов, визуализации данных, Reactive программировании, RegExp, API и многом другом.
 
-- [Awesome Javascript Learning](https://github.com/micromata/awesome-javascript-learning) - This repo has a list of only Javascript resources that includes: free Js ebooks, blogs, videos, DOM related resources, Node Js resources, and more.
+- [Awesome Javascript Learning](https://github.com/micromata/awesome-javascript-learning) - В этом репо есть список только ресурсов Javascript, который включает: бесплатные электронные книги Js, блоги, видео, ресурсы, связанные с DOM, ресурсы Node Js и многое другое.
 
-- [Javascript Stuff](https://github.com/ahfarmer/javascriptstuff-db) - This repo has amazing resources for React resources with a website to easily get them in one place. You can get React starter projects, static site generators, react tutorials, developer tools, and more.
+- [Javascript Stuff](https://github.com/ahfarmer/javascriptstuff-db) - В этом репозитории есть удивительные ресурсы для ресурсов React с веб-сайтом, чтобы легко собрать их в одном месте. Вы можете получить стартовые проекты React, генераторы статических сайтов, руководства по реагированию, инструменты разработчика и многое другое.
 
 #### Vue JS ресурсы
 

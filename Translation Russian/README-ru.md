@@ -10,27 +10,27 @@
 
 #### Html ресурсы
 
-- [Awesome Html5 resources](https://github.com/diegocard/awesome-html5) - This a GitHub repo created to put all the Html5 resources you would need. You will get to learn about accessibility, Semantics, DOM Management, Progressive web apps, Html books, and more.
+- [Awesome Html5 resources](https://github.com/diegocard/awesome-html5) - Этот репозиторий GitHub, создан для размещения всех необходимых ресурсов Html5. Вы узнаете о специальных возможностях, семантике, управлении DOM, прогрессивных веб-приложениях, книгах Html и многом другом.
 
-- [Html list resources](https://github.com/gloparco/Master-List-of-HTML5-JS-CSS-Resources/blob/master/html.md) - This repo has awesome HTML resources where you can also get links to helpful Html5 books.
+- [Html list resources](https://github.com/gloparco/Master-List-of-HTML5-JS-CSS-Resources/blob/master/html.md) - В этом репозитории есть отличные ресурсы HTML, где вы также можете получить ссылки на полезные книги по Html5.
 
-- [Html and Css](https://github.com/zuzuleinen/html-and-css) - The repository has amazing resources on HTML & CSS. You can learn things like HTML semantics and front-end architecture, Create a Contact Form in HTML5, What is HTML5 Capable of, Features, and Resources and more resources.
+- [Html and Css](https://github.com/zuzuleinen/html-and-css) - В репозитории есть потрясающие ресурсы по HTML и CSS. Вы можете изучить такие вещи, как семантика HTML и интерфейсная архитектура, создание контактной формы в HTML5, возможности HTML5, функции и ресурсы, а также другие ресурсы.
 
-- [Html5 resources](https://github.com/SirPepe/HTML5Resources) - If you want to learn or get started with Html and CSS, this repo will be helpful. It has resources that will help you improve your skills on the basics.
+- [Html5 resources](https://github.com/SirPepe/HTML5Resources) - Если вы хотите изучить или начать работу с Html и CSS, этот репозиторий будет полезен. В нем есть ресурсы, которые помогут вам улучшить свои навыки по основам.
 
 #### CSS ресурсы
 
-- [Awesome CSS learning](https://github.com/micromata/awesome-css-learning) - Have a look at CSS resources to help you in your coding journey. Get to know all about animations, CSS variables, layout, CSS unit, and more.
+- [Awesome CSS learning](https://github.com/micromata/awesome-css-learning) - Ознакомьтесь с ресурсами CSS, которые помогут вам в вашем пути кодирования. Узнайте все об анимации, переменных CSS, макете, модуле CSS и многом другом.
 
-- [Awesome CSS Grid](https://github.com/valentinogagliardi/awesome-css-grid) - Learn about the CSS grid and how you can improve with amazing free resources.
+- [Awesome CSS Grid](https://github.com/valentinogagliardi/awesome-css-grid) - Узнайте о сетке CSS и о том, как можно улучшить ее с помощью потрясающих бесплатных ресурсов.
 
-- [Awesome Tailwind Css](https://github.com/aniftyco/awesome-tailwindcss) - Get to learn view and use amazing Tailwind CSS resources, tools, IDE extensions, Templates, Themes, and more.
+- [Awesome Tailwind Css](https://github.com/aniftyco/awesome-tailwindcss) - Научитесь просматривать и использовать удивительные Tailwind CSS ресурсы, инструменты, расширения IDE, шаблоны, темы и многое другое.
 
-- [Design resources for developers](https://github.com/bradtraversy/design-resources-for-developers) - This is a great GitHub repo to get all the resources you need to make your website look good. A collection of sites that you can get colors, fonts, UI graphics, icons, React UI, Vue UI, and more.
+- [Design resources for developers](https://github.com/bradtraversy/design-resources-for-developers) - Этот отличный репозиторий на GitHub, где собраны все ресурсы, необходимые для того, чтобы ваш сайт выглядел хорошо. Коллекция сайтов, на которых вы можете получить цвета, шрифты, графику пользовательского интерфейса, значки, пользовательский интерфейс React, пользовательский интерфейс Vue и многое другое.
 
-- [Html and Css](https://github.com/zuzuleinen/html-and-css) - The repository has amazing resources on CSS but also on HTML too. The repository has resources like:  What the Heck Is CSS Specificity? , CSS Architectures: New Best Practices, The worst Css practices, CSS techniques you couldn't live without, and more.
+- [Html and Css](https://github.com/zuzuleinen/html-and-css) - В репозитории есть удивительные ресурсы по CSS, но также и по HTML. В репозитории есть такие ресурсы, как: Что, черт возьми, такое специфичность CSS? , Архитектура CSS: новые передовые методы, Худшие методы CSS, методы CSS, без которых вы не можете жить, и многое другое.
 
-- [Html5 resources](https://github.com/SirPepe/HTML5Resources) - As I mentioned above. It has great resources for Html5 but you can learn sass, flexbox, grid, and more.
+- [Html5 resources](https://github.com/SirPepe/HTML5Resources) - Как я уже говорил выше. В нем есть отличные ресурсы для Html5, но вы можете также изучить sass, flexbox, grid и многое другое.
 
 #### Javascript ресурсы
 

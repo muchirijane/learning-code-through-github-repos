@@ -44,6 +44,8 @@ There are amazing resources that are available for code newbies to learn and dev
 
 - [Javascript Stuff](https://github.com/ahfarmer/javascriptstuff-db) - This repo has amazing resources for React resources with a website to easily get them in one place. You can get React starter projects, static site generators, react tutorials, developer tools, and more.
 
+- [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) - This repository contains JavaScript based examples of many popular algorithms and data structures.
+
 #### Vue JS repos
 
 - [Awesome Vue Resources](https://github.com/vuejs/awesome-vue) - This widely popular Github repository is jam-packed with awesome vue.js resources. It has everything and more for someone who wants to master vue.js. From tutorials, podcasts, documentations to full projects, code snippets, etc.

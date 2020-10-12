@@ -18,6 +18,8 @@ There are amazing resources that are available for code newbies to learn and dev
 
 - [Html5 resources](https://github.com/SirPepe/HTML5Resources) - If you want to learn or get started with Html and CSS, this repo will be helpful. It has resources that will help you improve your skills on the basics.
 
+- [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) - HTML5 Boilerplate is a professional front-end template for building fast, robust, and adaptable web apps or sites.
+
 #### CSS resources
 
 - [Awesome CSS learning](https://github.com/micromata/awesome-css-learning) - Have a look at CSS resources to help you in your coding journey. Get to know all about animations, CSS variables, layout, CSS unit, and more.
@@ -31,8 +33,6 @@ There are amazing resources that are available for code newbies to learn and dev
 - [Html and Css](https://github.com/zuzuleinen/html-and-css) - The repository has amazing resources on CSS but also on HTML too. The repository has resources like:  What the Heck Is CSS Specificity? , CSS Architectures: New Best Practices, The worst Css practices, CSS techniques you couldn't live without, and more.
 
 - [Html5 resources](https://github.com/SirPepe/HTML5Resources) - As I mentioned above. It has great resources for Html5 but you can learn sass, flexbox, grid, and more.
-
-- [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) - HTML5 Boilerplate is a professional front-end template for building fast, robust, and adaptable web apps or sites.
 
 #### Javascript repos
 

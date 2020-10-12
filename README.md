@@ -79,6 +79,8 @@ These are repos that have various resources for multiple programming languages.
 
 - [List](https://github.com/jnv/lists) - A great repository for learning web development on a deeper level. It has a wide list of resources of front-end developer interviews, companies you can easily apply to, BEM resources, ES6 learning resources, Blockchain & cryptocurrency resources, and more.
 
+- [Frontend Bootcamp / Days in the Web](https://github.com/microsoft/frontend-bootcamp) - In this two-day workshop you'll learn the basics of frontend development while building a working web app.
+
 ### Flask Repos
 
 - [Awesome Flask](https://github.com/humiaozuzu/awesome-flask) -  A curated list of awesome Flask resources and plugins.

@@ -32,6 +32,8 @@ There are amazing resources that are available for code newbies to learn and dev
 
 - [Html5 resources](https://github.com/SirPepe/HTML5Resources) - As I mentioned above. It has great resources for Html5 but you can learn sass, flexbox, grid, and more.
 
+- [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) - HTML5 Boilerplate is a professional front-end template for building fast, robust, and adaptable web apps or sites.
+
 #### Javascript repos
 
 - [Awesome JS](https://github.com/serhiisol/awesome-js) - With this repo, you can get resources and tutorials for Javascript frameworks like Node Js, Angular Js, React Js, and also vanilla Javascript resources.

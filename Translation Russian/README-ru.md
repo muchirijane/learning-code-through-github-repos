@@ -18,6 +18,8 @@
 
 - [Html5 resources](https://github.com/SirPepe/HTML5Resources) - Если вы хотите изучить или начать работу с Html и CSS, этот репозиторий будет полезен. В нем есть ресурсы, которые помогут вам улучшить свои навыки по основам.
 
+- [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) - HTML5 Boilerplate - это профессиональный интерфейсный шаблон для создания быстрых, надежных и адаптируемых веб-приложений или сайтов.
+
 #### CSS ресурсы
 
 - [Awesome CSS learning](https://github.com/micromata/awesome-css-learning) - Ознакомьтесь с ресурсами CSS, которые помогут вам в вашем пути кодирования. Узнайте все об анимации, переменных CSS, макете, модуле CSS и многом другом.

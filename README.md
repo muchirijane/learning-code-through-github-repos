@@ -59,6 +59,9 @@ There are amazing resources that are available for code newbies to learn and dev
 
 - [Node JS resources](https://github.com/sindresorhus/awesome-nodejs) - Get more Node Js resources from Command-line utilities, Build tools, Templating, Control flow, Network, Data validation, Tutorials, and more.
 
+#### Deno repos
+- [DBirb simple API](https://github.com/dergyitheron/dbirb-sqlite-deno) - This is really simple API for SQLite, which is local, file-based database. It's straightforward in usage and for modifications, really simple in understanding how that works. Written in Typescript in Deno (NodeJS alternative)
+
 #### All in one repos
 
 These are repos that have various resources for multiple programming languages.
@@ -87,7 +90,7 @@ All the contributions to add useful Github repositories with important and usefu
 
 ## Thank you for your contribution
 
-<!-- readme: contributors -start --> 
+<!-- readme: contributors -start -->
 <table>
 <tr>
     <td align="center">

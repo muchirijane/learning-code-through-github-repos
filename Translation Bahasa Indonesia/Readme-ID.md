@@ -68,29 +68,29 @@ Ada banyak sumber luar biasa yang tersedia bagi para koder pemula untuk belajar 
 
 Ini adalah repositori dengan berbagai sumber daya untuk berbagai bahasa pemrograman.
 
-- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - Get resources for all programming languages and get to know about vim, Linux resources, style-guides, Serverless Security, Internet of Things (IoT), DevOps, Design Patterns and more. The list is endless, go check out the repo.
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - Dapatkan sumber daya untuk semua bahasa pemrograman dan ketahui tentang vim, sumber daya Linux, panduan gaya, Keamanan Tanpa Server, Internet of Things (IoT), DevOps, Pola Desain, dan lainnya. Daftarnya tidak terbatas, cek repositori.
 
-- [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources) - If you want to get resources on Twilio, TensorFlow, TypeScript, Machine learning, Ruby on Rails, Javascript, and more. This repository will help you.
+- [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources) - Jika kamu ingin mendapatkan resource tentang Twilio, TensorFlow, TypeScript, Machine learning, Ruby on Rails, Javascript, dan lainnya. Repositori ini akan membantumu.
 
-- [Algo Wiki](https://github.com/vicky002/AlgoWiki) - This is like a Wikipedia repo for nearly all programming languages such as c++, python, Javascript, Rust, PHP, Java, and more. You can also get algorithms, machine learning, competitive programming, and more.
+- [Algo Wiki](https://github.com/vicky002/AlgoWiki) - Ini seperti repositor Wikipedia untuk hampir semua bahasa pemrograman seperti c ++, python, Javascript, Rust, PHP, Java, dan banyak lagi. Kamu juga bisa mendapatkan algoritma, pembelajaran mesin, pemrograman kompetitif, dan banyak lagi.
 
-- [Front-end checklist](https://github.com/thedaviddias/Front-End-Checklist) - This repository has is a checklist for steps you should take before you launch your website. It includes resources to check your website performance, accessibility, SEO, and more.
+- [Front-end checklist](https://github.com/thedaviddias/Front-End-Checklist) - Repositori ini memiliki daftar langkah-langkah yang harus kamu ambil sebelum meluncurkan situs web. Mencakup sumber daya untuk memeriksa kinerja situs web Anda, aksesibilitas, SEO, dan lainnya.
 
-- [Free for devs](https://github.com/ripienaar/free-for-dev) - You will get amazing resources to help you build websites from the ground up. Examples: Tools for Teams and Collaboration, CI and CD, Testing, Security and PKI, Management System, and more.
+- [Free for devs](https://github.com/ripienaar/free-for-dev) - Kamu akan mendapatkan sumber daya yang luar biasa untuk membantu membangun situs web dari nol. Contoh: Alat untuk Tim dan Kolaborasi, CI dan CD, Pengujian, Keamanan dan PKI, Sistem Manajemen, dan lainnya.
 
-- [Front-end resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources#table-of-contents) - This amazing repo has amazing CSS resources, platforms to learning code, youtube channels you should follow, blogs to follow, and VsCode extension to install to make your life easier.
+- [Front-end resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources#table-of-contents) - Repositori luar biasa ini memiliki sumber daya CSS yang luar biasa, platform untuk mempelajari kode, saluran youtube yang bisa kamu ikuti, blog untuk diikuti, dan ekstensi Visual Studio Code untuk dipasang untuk membuat hidupmu lebih mudah.
 
-- [List](https://github.com/jnv/lists) - A great repository for learning web development on a deeper level. It has a wide list of resources of front-end developer interviews, companies you can easily apply to, BEM resources, ES6 learning resources, Blockchain & cryptocurrency resources, and more.
+- [List](https://github.com/jnv/lists) - Repositori yang bagus untuk mempelajari pengembangan web di level yang lebih dalam. Memiliki banyak daftar sumber daya untuk wawancara pengembang front-end, perusahaan yang dapat kamu lamar dengan mudah, sumber daya BEM, sumber belajar ES6, sumber daya Blockchain & cryptocurrency, dan banyak lagi.
 
-### Flask Repos
+### Flask (Kerangak Kerja Web pada Python)
 
-- [Awesome Flask](https://github.com/humiaozuzu/awesome-flask) -  A curated list of awesome Flask resources and plugins.
+- [Awesome Flask](https://github.com/humiaozuzu/awesome-flask) -  Daftar sumber daya dan plugin Flask yang mengagumkan.
 
-### How to contribute
+### Bagaimana Cara Berkontribusi
 
-All the contributions to add useful Github repositories with important and useful resources are welcomed. Please read the [Contribution guidelines for steps to take](https://github.com/muchirijane/learning-code-through-github-repos/blob/main/CONTRIBUTING.md) to accomplish a successful Pull request.
+Semua kontribusi untuk menambahkan repositori Github yang berguna dengan sumber daya yang penting dan berguna sangat kami harapkan. Harap baca [Panduan kontribusi untuk langkah-langkah yang harus diambil](https://github.com/muchirijane/learning-code-through-github-repos/blob/main/CONTRIBUTING.md) supaya dapat menyelesaikan <i>Pull request</i> hingga berhasil.
 
-## Thank you for your contribution
+## Terimakasih Atas Kontribusimu
 
 <!-- readme: contributors -start -->
 <table>
@@ -150,6 +150,13 @@ All the contributions to add useful Github repositories with important and usefu
             <img src="https://avatars1.githubusercontent.com/u/65615065?v=4" width="100;" alt="GriffinMLN"/>
             <br />
             <sub><b>GriffinMLN</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/onyet">
+            <img src="https://avatars2.githubusercontent.com/u/32255447?v=4" width="100;" alt="OnyetApp"/>
+            <br />
+            <sub><b>Dian Mukti Wibowo</b></sub>
         </a>
     </td></tr>
 </table>

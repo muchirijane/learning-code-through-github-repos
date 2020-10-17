@@ -82,7 +82,7 @@ Ini adalah repositori dengan berbagai sumber daya untuk berbagai bahasa pemrogra
 
 - [List](https://github.com/jnv/lists) - Repositori yang bagus untuk mempelajari pengembangan web di level yang lebih dalam. Memiliki banyak daftar sumber daya untuk wawancara pengembang front-end, perusahaan yang dapat kamu lamar dengan mudah, sumber daya BEM, sumber belajar ES6, sumber daya Blockchain & cryptocurrency, dan banyak lagi.
 
-### Flask (Kerangak Kerja Web pada Python)
+### Flask (Kerangka Kerja Web pada Python)
 
 - [Awesome Flask](https://github.com/humiaozuzu/awesome-flask) -  Daftar sumber daya dan plugin Flask yang mengagumkan.
 

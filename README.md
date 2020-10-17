@@ -74,9 +74,16 @@ There are amazing resources that are available for code newbies to learn and dev
 
 - [Node JS resources](https://github.com/sindresorhus/awesome-nodejs) - Get more Node Js resources from Command-line utilities, Build tools, Templating, Control flow, Network, Data validation, Tutorials, and more.
 
-[Intro to JavaScript (Node.js)](https://github.com/microsoft/beginners-intro-javascript-node) - A beginner's guide to Node.js from Microsoft!
 
-[ Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - A repository full of the best practices to keep in mind when writing Node.js.
+- [ Intro to JavaScript (Node.js) ](https://github.com/microsoft/beginners-intro-javascript-node) - A beginner's guide to Node.js from Microsoft!
+
+- [ Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - A repository full of the best practices to keep in mind when writing Node.js.
+
+
+
+#### Deno repos
+- [DBirb simple API](https://github.com/dergyitheron/dbirb-sqlite-deno) - This is really simple API for SQLite, which is local, file-based database. It's straightforward in usage and for modifications, really simple in understanding how that works. Written in Typescript in Deno (NodeJS alternative)
+
 
 #### All in one repos
 

@@ -22,6 +22,9 @@ There are amazing resources that are available for code newbies to learn and dev
 
 #### CSS resources
 
+
+- [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css) - The ultimate style guide from Airbnd on how to format your CSS and Sass.
+
 - [Awesome CSS learning](https://github.com/micromata/awesome-css-learning) - Have a look at CSS resources to help you in your coding journey. Get to know all about animations, CSS variables, layout, CSS unit, and more.
 
 - [Awesome CSS Grid](https://github.com/valentinogagliardi/awesome-css-grid) - Learn about the CSS grid and how you can improve with amazing free resources.
@@ -34,7 +37,16 @@ There are amazing resources that are available for code newbies to learn and dev
 
 - [Html5 resources](https://github.com/SirPepe/HTML5Resources) - As I mentioned above. It has great resources for Html5 but you can learn sass, flexbox, grid, and more.
 
+- [Learning Resource Roadmap - (Front-End Development)](https://github.com/devcenter-square/Learning-Resource-Path-Front-End) - A roadmap filled with HTML, CSS, and Javascript resources and fun projects to help you learn.
+
+- [Web Dev Resources](https://github.com/mpara0/webdev-resources/blob/master/README.md) - This is a super comprehensive repository to learn all about the best resources in web development and design!
+
+[100 Days of Code - Front End](https://github.com/nas5w/100-days-of-code-frontend) - A repository filled with resources to guide you through the 100 Days of code challenge- front end edition!
+
+
 #### Javascript repos
+
+[Airbnb Javscript Style Guide](https://github.com/airbnb/javascript) - The ultimate comprehensive guide to learning and properly styling Javascript.
 
 - [Awesome JS](https://github.com/serhiisol/awesome-js) - With this repo, you can get resources and tutorials for Javascript frameworks like Node Js, Angular Js, React Js, and also vanilla Javascript resources.
 
@@ -43,6 +55,9 @@ There are amazing resources that are available for code newbies to learn and dev
 - [Awesome Javascript Learning](https://github.com/micromata/awesome-javascript-learning) - This repo has a list of only Javascript resources that includes: free Js ebooks, blogs, videos, DOM related resources, Node Js resources, and more.
 
 - [Javascript Stuff](https://github.com/ahfarmer/javascriptstuff-db) - This repo has amazing resources for React resources with a website to easily get them in one place. You can get React starter projects, static site generators, react tutorials, developer tools, and more.
+
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - In-depth crash course into the world of Javascript.
+
 
 #### Vue JS repos
 
@@ -59,8 +74,16 @@ There are amazing resources that are available for code newbies to learn and dev
 
 - [Node JS resources](https://github.com/sindresorhus/awesome-nodejs) - Get more Node Js resources from Command-line utilities, Build tools, Templating, Control flow, Network, Data validation, Tutorials, and more.
 
+
+- [ Intro to JavaScript (Node.js) ](https://github.com/microsoft/beginners-intro-javascript-node) - A beginner's guide to Node.js from Microsoft!
+
+- [ Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - A repository full of the best practices to keep in mind when writing Node.js.
+
+
+
 #### Deno repos
 - [DBirb simple API](https://github.com/dergyitheron/dbirb-sqlite-deno) - This is really simple API for SQLite, which is local, file-based database. It's straightforward in usage and for modifications, really simple in understanding how that works. Written in Typescript in Deno (NodeJS alternative)
+
 
 #### All in one repos
 
@@ -152,6 +175,3 @@ All the contributions to add useful Github repositories with important and usefu
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
-
-
-

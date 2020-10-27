@@ -46,7 +46,7 @@ There are amazing resources that are available for code newbies to learn and dev
 
 #### Javascript repos
 
-[Airbnb Javscript Style Guide](https://github.com/airbnb/javascript) - The ultimate comprehensive guide to learning and properly styling Javascript.
+- [Airbnb Javscript Style Guide](https://github.com/airbnb/javascript) - The ultimate comprehensive guide to learning and properly styling Javascript.
 
 - [Awesome JS](https://github.com/serhiisol/awesome-js) - With this repo, you can get resources and tutorials for Javascript frameworks like Node Js, Angular Js, React Js, and also vanilla Javascript resources.
 

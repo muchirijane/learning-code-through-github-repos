@@ -102,6 +102,8 @@ These are repos that have various resources for multiple programming languages.
 
 - [List](https://github.com/jnv/lists) - A great repository for learning web development on a deeper level. It has a wide list of resources of front-end developer interviews, companies you can easily apply to, BEM resources, ES6 learning resources, Blockchain & cryptocurrency resources, and more.
 
+- [The Odin Project](https://github.com/TheOdinProject) - This repo will provide you a meticulously guided path to learning full stack with several projects that will help you build a strong portfolio of work on Github and stay connected to other students taking the course. This website and the curriculum it hosts are completely open source, so anyone can work on new features or fix existing bugs on the website.
+
 - [Ultimate Coding Resources List](https://github.com/PizzaPokerGuy/ultimate-coding-resources) - This is a collection of the best resources for programming, web development, computer science and more.
 
 ### Flask Repos

@@ -46,7 +46,7 @@ There are amazing resources that are available for code newbies to learn and dev
 
 #### Javascript repos
 
-[Airbnb Javscript Style Guide](https://github.com/airbnb/javascript) - The ultimate comprehensive guide to learning and properly styling Javascript.
+- [Airbnb Javscript Style Guide](https://github.com/airbnb/javascript) - The ultimate comprehensive guide to learning and properly styling Javascript.
 
 - [Awesome JS](https://github.com/serhiisol/awesome-js) - With this repo, you can get resources and tutorials for Javascript frameworks like Node Js, Angular Js, React Js, and also vanilla Javascript resources.
 
@@ -68,7 +68,6 @@ There are amazing resources that are available for code newbies to learn and dev
 #### React JS repos
 
 - [Awesome React Resources](https://github.com/brillout/awesome-react-components) - This amazing Github repository has great resources that include the React ecosystem. You can fork or star it will be useful in your next project. The repo includes: React tools, React General Resources, React Community, React Online Playgrounds, and React tutorials.
-- [Useful React Resources]() - This amazing Github repository has great resources that include the React ecosystem. You can fork or star it will be useful in your next project. The repo includes: React tools, React General Resources, React Community, React Online Playgrounds, and React tutorials.
 
 #### Node Js repos
 
@@ -102,6 +101,8 @@ These are repos that have various resources for multiple programming languages.
 - [Front-end resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources#table-of-contents) - This amazing repo has amazing CSS resources, platforms to learning code, youtube channels you should follow, blogs to follow, and VsCode extension to install to make your life easier.
 
 - [List](https://github.com/jnv/lists) - A great repository for learning web development on a deeper level. It has a wide list of resources of front-end developer interviews, companies you can easily apply to, BEM resources, ES6 learning resources, Blockchain & cryptocurrency resources, and more.
+
+- [The Odin Project](https://github.com/TheOdinProject) - This repo will provide you a meticulously guided path to learning full stack with several projects that will help you build a strong portfolio of work on Github and stay connected to other students taking the course. This website and the curriculum it hosts are completely open source, so anyone can work on new features or fix existing bugs on the website.
 
 - [Ultimate Coding Resources List](https://github.com/PizzaPokerGuy/ultimate-coding-resources) - This is a collection of the best resources for programming, web development, computer science and more.
 

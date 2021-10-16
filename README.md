@@ -100,6 +100,9 @@ These are repos that have various resources for multiple programming languages.
 
 - [Front-end resources](https://github.com/RitikPatni/Front-End-Web-Development-Resources#table-of-contents) - This amazing repo has amazing CSS resources, platforms to learning code, youtube channels you should follow, blogs to follow, and VsCode extension to install to make your life easier.
 
+- [Fullstackopen](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io) - A wonderful free course that serves as an introduction to modern web application development with JavaScript. Participants are expected to have good programming skills, basic knowledge of web programming and databases, and to know the basics of working with the Git version-control system. It contains guided exercises that are to be submitted to github.
+
+
 - [List](https://github.com/jnv/lists) - A great repository for learning web development on a deeper level. It has a wide list of resources of front-end developer interviews, companies you can easily apply to, BEM resources, ES6 learning resources, Blockchain & cryptocurrency resources, and more.
 
 - [The Odin Project](https://github.com/TheOdinProject) - This repo will provide you a meticulously guided path to learning full stack with several projects that will help you build a strong portfolio of work on Github and stay connected to other students taking the course. This website and the curriculum it hosts are completely open source, so anyone can work on new features or fix existing bugs on the website.

@@ -1,5 +1,3 @@
-
-
 ![hacktoberfest badge](https://img.shields.io/badge/%F0%9F%94%A5-hacktoberfest-blue) ![license badge](https://img.shields.io/badge/%E2%9C%94%20license-MIT-green) ![open-source badge](https://img.shields.io/badge/%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB-Open--Source-orange)
 
 # learning-code-through-github-repo
@@ -24,7 +22,6 @@ There are amazing resources that are available for code newbies to learn and dev
 
 #### CSS resources
 
-
 - [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css) - The ultimate style guide from Airbnd on how to format your CSS and Sass.
 
 - [Awesome CSS learning](https://github.com/micromata/awesome-css-learning) - Have a look at CSS resources to help you in your coding journey. Get to know all about animations, CSS variables, layout, CSS unit, and more.
@@ -35,7 +32,7 @@ There are amazing resources that are available for code newbies to learn and dev
 
 - [Design resources for developers](https://github.com/bradtraversy/design-resources-for-developers) - This is a great GitHub repo to get all the resources you need to make your website look good. A collection of sites that you can get colors, fonts, UI graphics, icons, React UI, Vue UI, and more.
 
-- [Html and Css](https://github.com/zuzuleinen/html-and-css) - The repository has amazing resources on CSS but also on HTML too. The repository has resources like:  What the Heck Is CSS Specificity? , CSS Architectures: New Best Practices, The worst Css practices, CSS techniques you couldn't live without, and more.
+- [Html and Css](https://github.com/zuzuleinen/html-and-css) - The repository has amazing resources on CSS but also on HTML too. The repository has resources like: What the Heck Is CSS Specificity? , CSS Architectures: New Best Practices, The worst Css practices, CSS techniques you couldn't live without, and more.
 
 - [Html5 resources](https://github.com/SirPepe/HTML5Resources) - As I mentioned above. It has great resources for Html5 but you can learn sass, flexbox, grid, and more.
 
@@ -44,7 +41,6 @@ There are amazing resources that are available for code newbies to learn and dev
 - [Web Dev Resources](https://github.com/mpara0/webdev-resources/blob/master/README.md) - This is a super comprehensive repository to learn all about the best resources in web development and design!
 
 [100 Days of Code - Front End](https://github.com/nas5w/100-days-of-code-frontend) - A repository filled with resources to guide you through the 100 Days of code challenge- front end edition!
-
 
 #### Javascript repos
 
@@ -60,7 +56,9 @@ There are amazing resources that are available for code newbies to learn and dev
 
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - In-depth crash course into the world of Javascript.
 
-- [30 days of React JS](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React.
+- [30 days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.
+
+- [JavaScript algorithms](https://github.com/trekhleb/javascript-algorithms)- 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 
 #### Vue JS repos
 
@@ -76,16 +74,13 @@ There are amazing resources that are available for code newbies to learn and dev
 
 - [Node JS resources](https://github.com/sindresorhus/awesome-nodejs) - Get more Node Js resources from Command-line utilities, Build tools, Templating, Control flow, Network, Data validation, Tutorials, and more.
 
-
 - [ Intro to JavaScript (Node.js) ](https://github.com/microsoft/beginners-intro-javascript-node) - A beginner's guide to Node.js from Microsoft!
 
 - [ Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - A repository full of the best practices to keep in mind when writing Node.js.
 
-
-
 #### Deno repos
-- [DBirb simple API](https://github.com/dergyitheron/dbirb-sqlite-deno) - This is really simple API for SQLite, which is local, file-based database. It's straightforward in usage and for modifications, really simple in understanding how that works. Written in Typescript in Deno (NodeJS alternative)
 
+- [DBirb simple API](https://github.com/dergyitheron/dbirb-sqlite-deno) - This is really simple API for SQLite, which is local, file-based database. It's straightforward in usage and for modifications, really simple in understanding how that works. Written in Typescript in Deno (NodeJS alternative)
 
 #### All in one repos
 
@@ -105,7 +100,6 @@ These are repos that have various resources for multiple programming languages.
 
 - [Fullstackopen](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io) - A wonderful free course that serves as an introduction to modern web application development with JavaScript. Participants are expected to have good programming skills, basic knowledge of web programming and databases, and to know the basics of working with the Git version-control system. It contains guided exercises that are to be submitted to github.
 
-
 - [List](https://github.com/jnv/lists) - A great repository for learning web development on a deeper level. It has a wide list of resources of front-end developer interviews, companies you can easily apply to, BEM resources, ES6 learning resources, Blockchain & cryptocurrency resources, and more.
 
 - [The Odin Project](https://github.com/TheOdinProject) - This repo will provide you a meticulously guided path to learning full stack with several projects that will help you build a strong portfolio of work on Github and stay connected to other students taking the course. This website and the curriculum it hosts are completely open source, so anyone can work on new features or fix existing bugs on the website.
@@ -114,7 +108,7 @@ These are repos that have various resources for multiple programming languages.
 
 ### Flask Repos
 
-- [Awesome Flask](https://github.com/humiaozuzu/awesome-flask) -  A curated list of awesome Flask resources and plugins.
+- [Awesome Flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins.
 
 ### How to contribute
 

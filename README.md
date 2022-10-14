@@ -60,6 +60,8 @@ There are amazing resources that are available for code newbies to learn and dev
 
 - [JavaScript algorithms](https://github.com/trekhleb/javascript-algorithms)- 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 
+- [The AirBnB style guides](https://github.com/airbnb/javascript) -
+
 #### Vue JS repos
 
 - [Awesome Vue Resources](https://github.com/vuejs/awesome-vue) - This widely popular Github repository is jam-packed with awesome vue.js resources. It has everything and more for someone who wants to master vue.js. From tutorials, podcasts, documentations to full projects, code snippets, etc.

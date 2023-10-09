@@ -119,6 +119,15 @@ These are repos that have various resources for multiple programming languages.
 
 - [React Native UI Kitten](https://github.com/akveo/react-native-ui-kitten)- React Native UI Kitten allows you to boost the development of a mobile app. There is a huge variety of customizable layouts, use “as is” or add new blocks. Over 40 screens in dark and light themes give you the possibility to create a bright and exclusive app while saving your time on compiling numerous details.
 
+- [React Native Extended StyleSheet](https://github.com/vitalets/react-native-extended-stylesheet)- Drop-in replacement of React Native StyleSheet with media-queries, variables, dynamic themes, relative units, percents, math operations, scaling and other styling stuff.
+
+- [React Native TailwindCss](https://github.com/TVke/react-native-tailwindcss) - Easily apply styles to react native components in a tailwindCSS-like fashion. The utility classes are transformed to valid object names and are all children of an object ( t, tw, theme or tailwind).
+
+- [React Native Css](https://github.com/thabti/react-native-css) - React-native-css turns valid CSS into the Facebook subset of CSS.
+
+- [React Native Developer Roadmap](https://github.com/hayanisaid/React-Native-developer-roadmap) - React Native resources that will introduce you to React Native and give you some insights about the React Native ecosystem.
+
+- [Awesome React Native ](https://github.com/jondot/awesome-react-native) - Awesome React Native is an awesome style list that curates the best React Native libraries, tools, tutorials, articles and more.
 
 ### How to contribute
 

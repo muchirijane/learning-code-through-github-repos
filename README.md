@@ -114,6 +114,12 @@ These are repos that have various resources for multiple programming languages.
 
 - [Awesome Flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins.
 
+### React Native Resources Repos
+- [NativeBase component library for React & React Native](https://github.com/GeekyAnts/nativebase)- NativeBase is a mobile-first, accessible component library for building a consistent design system across android, iOS & web.
+
+- [React Native UI Kitten](https://github.com/akveo/react-native-ui-kitten)- React Native UI Kitten allows you to boost the development of a mobile app. There is a huge variety of customizable layouts, use “as is” or add new blocks. Over 40 screens in dark and light themes give you the possibility to create a bright and exclusive app while saving your time on compiling numerous details.
+
+
 ### How to contribute
 
 All the contributions to add useful Github repositories with important and useful resources are welcomed. Please read the [Contribution guidelines for steps to take](https://github.com/muchirijane/learning-code-through-github-repos/blob/main/CONTRIBUTING.md) to accomplish a successful Pull request.

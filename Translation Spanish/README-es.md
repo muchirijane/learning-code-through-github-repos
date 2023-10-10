@@ -18,7 +18,11 @@ Hay recursos asombrosos que están disponibles para que los novatos en el códig
 
 - [Html5 resources](https://github.com/SirPepe/HTML5Resources) - Si deseas aprender o comenzar con Html y CSS, este repositorio será útil. Tiene recursos que te ayudarán a mejorar tus habilidades en los conceptos básicos.
 
+- [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) - HTML5 Boilerplate es un front-end template profesional para crear rapidas, robustas y adaptables aplicaciones webs or paginas.
+
 #### Recursos de CSS
+
+- [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css) - La guia definitiva de Airbnb en como formatear tu CSS y SASS.
 
 - [Awesome CSS learning](https://github.com/micromata/awesome-css-learning) - Echa un vistazo a los recursos de CSS que te ayudarán en tu viaje de codificación. Conoce todo sobre animaciones, variables CSS, diseño, unidad CSS y más.
 
@@ -32,7 +36,16 @@ Hay recursos asombrosos que están disponibles para que los novatos en el códig
 
 - [Html5 resources](https://github.com/SirPepe/HTML5Resources) - Como mencioné anteriormente. Tiene excelentes recursos para Html5, pero puedes aprender sass, flexbox, grid y más.
 
+- [Learning Resource Roadmap - (Front-End Development)](https://github.com/devcenter-square/Learning-Resource-Path-Front-End) - un roadmap lleno de recursos HTML, CSS y javascript, ademas de proyectos divertidos para aprender.
+
+- [Web Dev Resources](https://github.com/mpara0/webdev-resources/blob/master/README.md) - Esta es un sitio web para aprender todo sobre el desarrollo web y diseño.
+
+[100 Days of Code - Front End](https://github.com/nas5w/100-days-of-code-frontend) - Un repositorio lleno de recursos para guiarte a traves del challenge de 100 dias de codigo para la version de front end.
+
 #### Repositorios de Javascript
+
+- [Airbnb Javscript Style Guide](https://github.com/airbnb/javascript) - La guia definitiva para aprender y manejar correctamente Javascript.
+
 
 - [Awesome JS](https://github.com/serhiisol/awesome-js) - Con este repositorio, puedes obtener recursos y tutoriales para marcos de Javascript como Node Js, Angular Js, React Js y también recursos de JavaScript vanilla.
 
@@ -41,6 +54,16 @@ Hay recursos asombrosos que están disponibles para que los novatos en el códig
 - [Awesome Javascript Learning](https://github.com/micromata/awesome-javascript-learning) - Este repositorio tiene una lista de solo recursos de Javascript que incluye: libros electrónicos, blogs, videos, recursos relacionados con DOM, recursos de Node Js gratuitos de Js y más.
 
 - [Javascript Stuff](https://github.com/ahfarmer/javascriptstuff-db) - Este repositorio tiene recursos increíbles para los recursos de React con un sitio web para obtenerlos fácilmente en un solo lugar. Puedes obtener proyectos de inicio de React, generadores de sitios estáticos, tutoriales de React, herramientas de desarrollo y más.
+
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Curso rapido para aprender Javascript.
+
+- [30 days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 dias del challenge para programar en javascript paso a paso para aprender este lenguaje. Este desafio puede tardar mas de 100 dias, asi que por favor hazlo a tu propio ritmo.
+
+- [JavaScript algorithms](https://github.com/trekhleb/javascript-algorithms)- 📝 Algoritmos y estructura de datos implementando Javascript con explicaciones y links para mas informacion.
+
+- [The AirBnB style guides](https://github.com/airbnb/javascript) - Gran recurso para mantener tu codigo. Esta puede ser la parte mas dificil en el momento de organizar a los developers en un proyecto.
+
+- [JavaScript Interview Questions and Answers](https://github.com/sudheerj/javascript-interview-questions) - Lista de 1000 preguntas de javascript en interview que te ayudara a estar listo.
 
 #### Repositorios de Vue JS
 
@@ -57,6 +80,14 @@ Hay recursos asombrosos que están disponibles para que los novatos en el códig
 #### Repositorios de Node JS
 
 - [Node JS resources](https://github.com/sindresorhus/awesome-nodejs) - Obtenga más recursos de Node Js de utilidades de línea de comandos, herramientas de compilación, plantillas, flujo de control, red, validación de datos, tutoriales y más.
+
+- [ Intro to JavaScript (Node.js) ](https://github.com/microsoft/beginners-intro-javascript-node) - Una guia de microsoft para principiantes en Node.JS.
+
+- [ Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Un repositorio lleno de las mejores practicas para escribir codigo de Node.JS adecuado.
+
+#### Repositorio de Deno 
+
+- [DBirb simple API](https://github.com/dergyitheron/dbirb-sqlite-deno) - Una simple API con SQLite. Es de uso super facil de sguir y entender como funciona. Escrito en typescript con Deno(Alternativa a Node.JS).
 
 #### Todo en un solo repositorio
 

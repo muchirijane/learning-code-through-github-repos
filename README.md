@@ -39,8 +39,10 @@ There are amazing resources that are available for code newbies to learn and dev
 - [Learning Resource Roadmap - (Front-End Development)](https://github.com/devcenter-square/Learning-Resource-Path-Front-End) - A roadmap filled with HTML, CSS, and Javascript resources and fun projects to help you learn.
 
 - [Web Dev Resources](https://github.com/mpara0/webdev-resources/blob/master/README.md) - This is a super comprehensive repository to learn all about the best resources in web development and design!
+  
+- [You Don't Need JS](https://github.com/tailwindlabs/tailwindcss)- This repository contains details for complicated components to be created using CSS, without Javascript
 
-[100 Days of Code - Front End](https://github.com/nas5w/100-days-of-code-frontend) - A repository filled with resources to guide you through the 100 Days of code challenge- front end edition!
+- [100 Days of Code - Front End](https://github.com/nas5w/100-days-of-code-frontend) - A repository filled with resources to guide you through the 100 Days of code challenge- front end edition!
 
 #### Javascript repos
 

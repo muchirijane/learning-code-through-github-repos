@@ -74,6 +74,12 @@ There are amazing resources that are available for code newbies to learn and dev
 
 - [Awesome React Resources](https://github.com/brillout/awesome-react-components) - This amazing Github repository has great resources that include the React ecosystem. You can fork or star it will be useful in your next project. The repo includes: React tools, React General Resources, React Community, React Online Playgrounds, and React tutorials.
 
+- [Bulletproof React](https://github.com/alan2207/bulletproof-react) - This repo is a collection of resources and best practices to use when developing React applications. It includes real-world examples while learning about State Management, Testing, Error Handling, and more.
+
+- [30-Days-of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of React is step-by-step guide to learn React through projects. These projects are made for both beginner and advanced JS and React developers.
+
+-[Reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - With over 300 questions, this repo helps prepare React developers for interviews.
+
 #### Node Js repos
 
 - [Node JS resources](https://github.com/sindresorhus/awesome-nodejs) - Get more Node Js resources from Command-line utilities, Build tools, Templating, Control flow, Network, Data validation, Tutorials, and more.
@@ -115,6 +121,7 @@ These are repos that have various resources for multiple programming languages.
 - [Awesome Flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins.
 
 ### React Native Resources Repos
+
 - [NativeBase component library for React & React Native](https://github.com/GeekyAnts/nativebase)- NativeBase is a mobile-first, accessible component library for building a consistent design system across android, iOS & web.
 
 - [React Native UI Kitten](https://github.com/akveo/react-native-ui-kitten)- React Native UI Kitten allows you to boost the development of a mobile app. There is a huge variety of customizable layouts, use “as is” or add new blocks. Over 40 screens in dark and light themes give you the possibility to create a bright and exclusive app while saving your time on compiling numerous details.

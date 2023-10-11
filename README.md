@@ -140,6 +140,8 @@ These are repos that have various resources for multiple programming languages.
 
 - [React Native Learnings Resources ](https://github.com/shubhnik/react-native-learning-resources) - A dedicated repository for learning React Native, packed with valuable resources to accelerate your journey.
 
+[React Native for Absolute Beginners](https://github.com/hiteshchoudhary/React-native-projects) - A Beginner friendly Respository , with variour project to pratices, articles to help.
+
 ### How to contribute
 
 All the contributions to add useful Github repositories with important and useful resources are welcomed. Please read the [Contribution guidelines for steps to take](https://github.com/muchirijane/learning-code-through-github-repos/blob/main/CONTRIBUTING.md) to accomplish a successful Pull request.

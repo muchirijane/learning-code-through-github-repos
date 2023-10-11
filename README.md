@@ -129,6 +129,10 @@ These are repos that have various resources for multiple programming languages.
 
 - [Awesome React Native ](https://github.com/jondot/awesome-react-native) - Awesome React Native is an awesome style list that curates the best React Native libraries, tools, tutorials, articles and more.
 
+- [React Native Resources ](https://github.com/chefk5/react-native-resources) - A curated list of React Native resources to help you build your next app with ease.
+
+- [React Native Learnings Resources ](https://github.com/shubhnik/react-native-learning-resources) - A dedicated repository for learning React Native, packed with valuable resources to accelerate your journey.
+
 ### How to contribute
 
 All the contributions to add useful Github repositories with important and useful resources are welcomed. Please read the [Contribution guidelines for steps to take](https://github.com/muchirijane/learning-code-through-github-repos/blob/main/CONTRIBUTING.md) to accomplish a successful Pull request.

@@ -140,6 +140,18 @@ These are repos that have various resources for multiple programming languages.
 
 - [React Native Learnings Resources ](https://github.com/shubhnik/react-native-learning-resources) - A dedicated repository for learning React Native, packed with valuable resources to accelerate your journey.
 
+
+### Data structures and Algorithms Repos
+
+#### Python
+- [Pythonic Data Structures and Algorithms ](https://github.com/keon/algorithms) - Minimal and clean example implementations of data structures and algorithms in Python 3.
+
+### Javascript
+- [Pretty algorithms](https://github.com/jiayihu/pretty-algorithms) - Common useful algorithms written in modern, pretty and easy-to-understand Javascript along with real-world usage examples. Implementations are in standard ES6 Javascript with the addition of Typescript type annotations for better clarity.All the algorithms are also tested using Jest with the help of custom beautiful snapshots.
+
+
+
+
 ### How to contribute
 
 All the contributions to add useful Github repositories with important and useful resources are welcomed. Please read the [Contribution guidelines for steps to take](https://github.com/muchirijane/learning-code-through-github-repos/blob/main/CONTRIBUTING.md) to accomplish a successful Pull request.

@@ -140,6 +140,7 @@ These are repos that have various resources for multiple programming languages.
 
 - [React Native Learnings Resources ](https://github.com/shubhnik/react-native-learning-resources) - A dedicated repository for learning React Native, packed with valuable resources to accelerate your journey.
 
+
 [React Native for Absolute Beginners](https://github.com/hiteshchoudhary/React-native-projects) - A Beginner friendly Respository , with variour project to pratices, articles to help.
 
 [React Native Boilerplate](https://github.com/robertwt7/rn-boilerplate) - A curated list of most needed Package's for build React-native projects
@@ -147,6 +148,18 @@ These are repos that have various resources for multiple programming languages.
 [React-Native-TypeScript-Starter](https://github.com/tarikfp/react-native-typescript-starter) - Create scalable, robust and enterprise level React Native Typescript applications.
 
 [React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps. The best way to learn is by doing, these list of repositories would guide both beginner to advance react native devolpers to level up there skill.
+
+### Data structures and Algorithms Repos
+
+#### Python
+- [Pythonic Data Structures and Algorithms ](https://github.com/keon/algorithms) - Minimal and clean example implementations of data structures and algorithms in Python 3.
+
+### Javascript
+- [Pretty algorithms](https://github.com/jiayihu/pretty-algorithms) - Common useful algorithms written in modern, pretty and easy-to-understand Javascript along with real-world usage examples. Implementations are in standard ES6 Javascript with the addition of Typescript type annotations for better clarity.All the algorithms are also tested using Jest with the help of custom beautiful snapshots.
+
+
+
+
 
 ### How to contribute
 

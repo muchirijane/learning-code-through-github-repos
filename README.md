@@ -166,7 +166,7 @@ These are repos that have various resources for multiple programming languages.
 
 ### How to contribute
 
-All contributions to add useful Github repositories with important and useful resources are welcome. Please read the [Contribution guidelines for steps to take](https://github.com/muchirijane/learning-code-through-github-repos/blob/main/CONTRIBUTING.md) to accomplish a successful Pull request.
+All the contributions to add useful Github repositories with important and useful resources are welcomed. Please read the [Contribution guidelines for steps to take](https://github.com/muchirijane/learning-code-through-github-repos/blob/main/CONTRIBUTING.md) to accomplish a successful Pull request.
 
 ## Thank you for your contribution
 

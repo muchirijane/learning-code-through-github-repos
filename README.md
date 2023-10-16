@@ -151,13 +151,13 @@ These are repos that have various resources for multiple programming languages.
 ### Data structures and Algorithms Repos
 
 #### Python
-- [Pythonic Data Structures and Algorithms](https://github.com/keon/algorithms) - Minimal and clean example implementations of data structures and algorithms in Python 3.
-
-- [Python Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
+- [Algorithms in Python](https://github.com/prakhar1989/Algorithms) - Data Structures and Algorithms in Python. Some examples are: Karatsuba Multiplication, Basic Sorting, Rabin-Miller primality test, Sieve of Eratosthenes for prime numbers, Binary Search, Counting Inversions in an array, Selecting ith order statistic in an array, Graph datastructure (directed & undirected), and Graph Algos.
 
 - [Python DS](https://github.com/prabhupant/python-ds) - No non-sense solutions to common Data Structure and Algorithm interview questions in Python. Follows a consistent approach throughout problems.
 
-- [Algorithms in Python](https://github.com/prakhar1989/Algorithms) - Data Structures and Algorithms in Python. Some examples are: Karatsuba Multiplication, Basic Sorting, Rabin-Miller primality test, Sieve of Eratosthenes for prime numbers, Binary Search, Counting Inversions in an array, Selecting ith order statistic in an array, Graph datastructure (directed & undirected), and Graph Algos.
+- [Python Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
+
+- [Pythonic Data Structures and Algorithms](https://github.com/keon/algorithms) - Minimal and clean example implementations of data structures and algorithms in Python 3.
 
 #### Javascript
 - [Pretty algorithms](https://github.com/jiayihu/pretty-algorithms) - Common useful algorithms written in modern, pretty and easy-to-understand Javascript along with real-world usage examples. Implementations are in standard ES6 Javascript with the addition of Typescript type annotations for better clarity. All the algorithms are also tested using Jest with the help of custom, beautiful snapshots.

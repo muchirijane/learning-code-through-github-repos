@@ -40,7 +40,7 @@ There are amazing resources that are available for code newbies to learn and dev
 
 - [Web Dev Resources](https://github.com/mpara0/webdev-resources/blob/master/README.md) - This is a super comprehensive repository to learn all about the best resources in web development and design!
 
-[100 Days of Code - Front End](https://github.com/nas5w/100-days-of-code-frontend) - A repository filled with resources to guide you through the 100 Days of code challenge- front end edition!
+- [100 Days of Code - Front End](https://github.com/nas5w/100-days-of-code-frontend) - A repository filled with resources to guide you through the 100 Days of code challenge- front end edition!
 
 #### Javascript repos
 
@@ -78,7 +78,7 @@ There are amazing resources that are available for code newbies to learn and dev
 
 - [30-Days-of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of React is step-by-step guide to learn React through projects. These projects are made for both beginner and advanced JS and React developers.
 
--[Reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - With over 300 questions, this repo helps prepare React developers for interviews.
+- [Reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - With over 300 questions, this repo helps prepare React developers for interviews.
 
 #### Node Js repos
 
@@ -140,24 +140,27 @@ These are repos that have various resources for multiple programming languages.
 
 - [React Native Learnings Resources ](https://github.com/shubhnik/react-native-learning-resources) - A dedicated repository for learning React Native, packed with valuable resources to accelerate your journey.
 
+- [React Native for Absolute Beginners](https://github.com/hiteshchoudhary/React-native-projects) - A Beginner friendly Respository, with various projects to practice and helpful articles.
 
-[React Native for Absolute Beginners](https://github.com/hiteshchoudhary/React-native-projects) - A Beginner friendly Respository , with variour project to pratices, articles to help.
+- [React Native Boilerplate](https://github.com/robertwt7/rn-boilerplate) - A curated list of most needed Packages for building React-native projects
 
-[React Native Boilerplate](https://github.com/robertwt7/rn-boilerplate) - A curated list of most needed Package's for build React-native projects
+- [React-Native-TypeScript-Starter](https://github.com/tarikfp/react-native-typescript-starter) - Create scalable, robust and enterprise-level React Native Typescript applications.
 
-[React-Native-TypeScript-Starter](https://github.com/tarikfp/react-native-typescript-starter) - Create scalable, robust and enterprise level React Native Typescript applications.
-
-[React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps. The best way to learn is by doing, these list of repositories would guide both beginner to advance react native devolpers to level up there skill.
+- [React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps. The best way to learn is by doing, these lists of repositories would guide both beginners and advanced React native developers to level up their skills.
 
 ### Data structures and Algorithms Repos
 
 #### Python
-- [Pythonic Data Structures and Algorithms ](https://github.com/keon/algorithms) - Minimal and clean example implementations of data structures and algorithms in Python 3.
+- [Algorithms in Python](https://github.com/prakhar1989/Algorithms) - Data Structures and Algorithms in Python. Some examples are: Karatsuba Multiplication, Basic Sorting, Rabin-Miller primality test, Sieve of Eratosthenes for prime numbers, Binary Search, Counting Inversions in an array, Selecting ith order statistic in an array, Graph datastructure (directed & undirected), and Graph Algos.
 
-### Javascript
-- [Pretty algorithms](https://github.com/jiayihu/pretty-algorithms) - Common useful algorithms written in modern, pretty and easy-to-understand Javascript along with real-world usage examples. Implementations are in standard ES6 Javascript with the addition of Typescript type annotations for better clarity.All the algorithms are also tested using Jest with the help of custom beautiful snapshots.
+- [Python DS](https://github.com/prabhupant/python-ds) - No non-sense solutions to common Data Structure and Algorithm interview questions in Python. Follows a consistent approach throughout problems.
 
+- [Python Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
 
+- [Pythonic Data Structures and Algorithms](https://github.com/keon/algorithms) - Minimal and clean example implementations of data structures and algorithms in Python 3.
+
+#### Javascript
+- [Pretty algorithms](https://github.com/jiayihu/pretty-algorithms) - Common useful algorithms written in modern, pretty and easy-to-understand Javascript along with real-world usage examples. Implementations are in standard ES6 Javascript with the addition of Typescript type annotations for better clarity. All the algorithms are also tested using Jest with the help of custom, beautiful snapshots.
 
 
 
